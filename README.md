@@ -2,7 +2,7 @@
 
 * Ivan Muller (Nickname: mullerivan) <mullerivan@gmail.com>
 
-* ## Requirements
+## Requirements
 
 SilverStripe 3.1
 
