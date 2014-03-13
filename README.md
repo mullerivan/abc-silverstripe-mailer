@@ -6,9 +6,11 @@
 
 SilverStripe 3.1
 
-## Documentation
+## Install
 
-
+Just drop the folder inside the project like any module
+Visit this url : mysite/dev/build/?flush=1
+Done!
 
 ##Setup
 
